@@ -32,3 +32,9 @@ creative features:
 quality of life addons:
 - Aether craft water 3x and glowstone 3x
 - Ruby Itemset x
+
+
+a-x.x.x alpha
+b-x.x.x beta
+rc-x.x.x release candidate
+x.x.x Relese 1st x =! 0
