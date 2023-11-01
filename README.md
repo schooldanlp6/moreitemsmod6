@@ -38,10 +38,13 @@ quality of life addons:
 ## todos for upcoming 1.0.1
 - fix the aether
 - make the version fully compatible for porting your world from 1.16.5 -> 1.20.1
+- adding ruby and copper and emerald utilities
+- adding more and craftable music discs as well as structures for music discs like abandond theatres
 
 ## rc 0.2.1
 - adding old 1.16.5 feaatures NOTE: Upgrading from 1.16.5 is not possible because fo missing features especially ores but it will be possible in the realese
 - fixing stuf.
+- added music discs and the music discs creative tab
 
 ## beta 
 - porting features from 1.16.5
